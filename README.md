@@ -1,2 +1,2 @@
 # demo-eks
-Repository to test CI/CD with Jenkins on AWS and EKS
+Repository to test CI/CD with Jenkins on AWS and EKS. Test
